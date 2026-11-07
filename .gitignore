@@ -1,0 +1,11 @@
+dist/
+.build-arm64
+.build-x86_64
+.DS_Store
+*.pkg
+.pkgbuild/
+.stage/
+*.swp
+*~
+aso-vpn-shot.png
+.test-session-policy
